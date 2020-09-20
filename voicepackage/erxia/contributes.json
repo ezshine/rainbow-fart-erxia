@@ -1,0 +1,329 @@
+{
+  "name": "Erxia-Chinese",
+  "version": "1.0",
+  "author": "二夏",
+  "display-name": "碟导二夏酱[Chinese]",
+  "description": "B站VUP，碟导二夏酱配音的语音包",
+  "avatar": "avatar.png",
+  "avatar-dark": "avatar-dark.png",
+  "languages": [
+    "javascript"
+  ],
+  "locale": "zh",
+  "gender": "female",
+  "contributes": [
+    {
+      "keywords": [
+        "function"
+      ],
+      "voices": [
+        "1.mp3",
+        "2.mp3",
+        "3.mp3"
+      ],
+	  "texts":[
+		  "我觉得你会写一个很棒的函数！",
+		  "这个函数的命名用我的名字怎么样呀？",
+		  "函数的命名想好了吗？"
+	  ]
+    },
+    {
+      "keywords": [
+        "=>"
+      ],
+      "voices": [
+        "4.mp3",
+        "5.mp3",
+        "6.mp3"
+      ],
+	  "texts":[
+		  "箭头函数 我的this指向你",
+		  "每天都要像这箭头一样，往前冲哦",
+		  "小小箭头却有大能量"
+	  ]
+    },
+    {
+      "keywords": [
+        "if(",
+        "if ("
+      ],
+      "voices": [
+        "7.mp3",
+        "8.mp3"
+      ],
+	  "texts":[
+		  "如果看到卖西瓜的，就买一个~",
+		  "人生没有那么多如果，有什么比编程更容易呢？"
+	  ]
+    },
+    {
+      "keywords": [
+        "else{",
+        "else {"
+      ],
+      "voices": [
+        "9.mp3",
+        "10.mp3"
+      ],
+	  "texts":[
+		  "如果此路不通，那就绕路吧",
+		  "现在开始实行B计划"
+	  ]
+    },
+    {
+      "keywords": [
+        "for(",
+        "for (",
+        "while(",
+        "while ("
+      ],
+      "voices": [
+        "11.mp3",
+        "12.mp3",
+        "13.mp3"
+      ],
+	  "texts":[
+		  "朴素生活日复一日，这就是人生啊",
+		  "遇事不顺先静下心来，不要陷入死胡同哦",
+		  "这段循环是为我而写的吗"
+	  ]
+    },
+    {
+      "keywords": [
+        "break"
+      ],
+      "voices": [
+        "14.mp3",
+        "15.mp3"
+      ],
+	  "texts":[
+		  "结束掉这个循环吧！",
+		  "结束掉这个不断循环的世界吧"
+	  ]
+    },
+    {
+      "keywords": [
+        "continue"
+      ],
+      "voices": [
+        "16.mp3",
+        "17.mp3"
+      ],
+	  "texts":[
+		  "人生总会迷茫，但生活还要继续啊",
+		  "这个世界已经没救了，进入下一个吧"
+	  ]
+    },
+    {
+      "keywords": [
+        "import ",
+        "include "
+      ],
+      "voices": [
+        "18.mp3",
+        "19.mp3"
+      ],
+	  "texts":[
+		  "嘻嘻，把我的才华也给导入了吧！",
+		  "是要导入我的可爱吗？"
+	  ]
+    },
+    {
+      "keywords": [
+        "watch"
+      ],
+      "voices": [
+        "20.mp3",
+        "21.mp3"
+      ],
+	  "texts":[
+		  "让我们来做麦田的守护者吧",
+		  "让我康康！"
+	  ]
+    },
+    {
+      "keywords": [
+        "v-model"
+      ],
+      "voices": [
+        "22.mp3"
+      ],
+	  "texts":[
+		  "台上的风光少不了台下的努力哦"
+	  ]
+    },
+    {
+      "keywords": [
+        "console.log",
+        "console.error"
+      ],
+      "voices": [
+        "23.mp3",
+        "24.mp3",
+        "25.mp3",
+        "26.mp3"
+      ],
+	  "texts":[
+		  "修正程序错误的第一步是要重视这个错误",
+		  "是不是遇到麻烦了？",
+		  "别着急，冷静下，困难一定能解决的",
+		  "让我们瞧瞧这里发生了什么"
+	  ]
+    },
+    {
+      "keywords": [
+        "setInterval"
+      ],
+      "voices": [
+        "27.mp3",
+        "28.mp3"
+      ],
+	  "texts":[
+		  "啊，要一直工作吗？浏览器辛苦了",
+		  "浏览器辛苦了，屏幕前的你也辛苦了"
+	  ]
+    },
+    {
+      "keywords": [
+        "new "
+      ],
+      "voices": [
+        "29.mp3"
+      ],
+	  "texts":[
+		  "谁说你没对象的，诺，这不是新建一个了吗"
+	  ]
+    },
+    {
+      "keywords": [
+        "try{",
+        "try {"
+      ],
+      "voices": [
+        "30.mp3"
+      ],
+	  "texts":[
+		  "及时关注可能会发生的错误"
+	  ]
+    },
+    {
+      "keywords": [
+        "catch"
+      ],
+      "voices": [
+        "31.mp3",
+        "32.mp3"
+      ],
+	  "texts":[
+		   "现在开始执行B计",
+		  "与其关心程序的异常，不如多关注下身边的女孩子吧"
+	  ]
+    },
+    {
+      "keywords": [
+        "finally"
+      ],
+      "voices": [
+        "33.mp3"
+      ],
+	  "texts":[
+		  "无论最终如何，一定会执行的"
+	  ]
+    },
+    {
+      "keywords": [
+        "return"
+      ],
+      "voices": [
+        "34.mp3"
+      ],
+	  "texts":[
+		  "返回什么东西好呢？"
+	  ]
+    },
+    {
+      "keywords": [
+        "$time_morning"
+      ],
+      "voices": [
+        "35.mp3",
+        "36.mp3"
+      ],
+	  "texts":[
+		  "早上好呀！",
+		  "吃早饭了吗？一定要按时吃饭啊"
+	  ]
+    },
+    {
+      "keywords": [
+        "$time_before_noon"
+      ],
+      "voices": [
+        "37.mp3",
+        "38.mp3"
+      ],
+	  "texts":[
+		  "中午咯，你吃午饭了嘛？",
+		   "中午要吃什么呢？"
+	  ]
+    },
+    {
+      "keywords": [
+        "$time_noon"
+      ],
+      "voices": [
+        "39.mp3"
+      ],
+	  "texts":[
+		  "要午休下午才能有精神呀。"
+	  ]
+    },
+    {
+      "keywords": [
+        "$time_evening"
+      ],
+      "voices": [
+        "40.mp3"
+      ],
+	  "texts":[
+		  "该准备吃晚饭了吧？"
+	  ]
+    },
+    {
+      "keywords": [
+        "$time_midnight"
+      ],
+      "voices": [
+        "41.mp3",
+        "42.mp3",
+        "43.mp3",
+        "44.mp3"
+      ],
+	  "texts":[
+		  "愿梦里没有bug",
+		   "很晚了哦，要早点休息！",
+		   "写个TODO，明天再继续写吧~",
+		   "早睡早起身体好"
+	  ]
+    },
+    {
+      "keywords": [
+        "$time_each_hour"
+      ],
+      "voices": [
+        "45.mp3",
+        "46.mp3",
+        "47.mp3",
+        "48.mp3",
+        "49.mp3"
+      ],
+	  "texts":[
+		  "喝点水吧？",
+		   "你累不累呀？要不休息一下吧",
+		   "不要一直坐着，起来运动运动吧！",
+		   "你认真写代码的样子，很帅",
+		   "我看到了！你刚刚在摸鱼!"
+	  ]
+    }
+  ]
+}
