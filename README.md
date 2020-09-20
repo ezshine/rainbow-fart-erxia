@@ -8,6 +8,8 @@ B站VUP：[碟导二夏酱](https://space.bilibili.com/11879727/)
 
 ### Waifu模型
 
+> 请 [下载彩虹屁老婆容器](https://rfw.jnsii.com) 来加载桌面版的二夏酱，让我陪你写代码吧！
+
 ![](https://s1.ax1x.com/2020/09/20/woNLkD.gif)
 
 
